@@ -1,4 +1,4 @@
-![image](https://github.com/vishwasbasotra/NBFI-Vehicle-Loan-Repayment/assets/52347690/53a8e5c1-e66b-40ca-a8d8-90ea2951bfb0)# NBFC-Vehicle-Loan-Repayment
+# NBFC-Vehicle-Loan-Repayment
 Data Science Hackathon to predict loan default
 
 ## Description
